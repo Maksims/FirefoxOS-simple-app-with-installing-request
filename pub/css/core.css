@@ -4,10 +4,10 @@ body {
 }
 #install {
   display: inline-block;
-  padding: 4px 8px;
+  padding: 4px 8px 4px 40px;
+  margin-bottom: 8px;
   height: 32px;
   line-height: 32px;
-  padding-left: 40px;
   background: url('/img/firefox24.png') #303030 no-repeat 4px 4px;
   cursor: pointer;
 }
@@ -29,4 +29,15 @@ body {
   -ms-user-select: none;
   user-select: none;
   cursor: pointer;
+}
+#git {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-top: 8px;
+  background: url('http://moka.co/restest/img/icons.png') #303030 no-repeat -99px -66px;
+}
+#git:hover {
+  background-position: -99px -99px;
+  background-color: #fff;
 }
