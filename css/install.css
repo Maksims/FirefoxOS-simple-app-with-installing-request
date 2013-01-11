@@ -1,0 +1,9 @@
+body {
+  background: #404040;
+  color: #cccccc;
+}
+#install {
+  display: inline-block;
+  padding: 4px 8px;
+  background: #303030;
+}
