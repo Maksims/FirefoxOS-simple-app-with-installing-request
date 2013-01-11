@@ -29,7 +29,7 @@ $(function() {
     if (!requested) {
       requested = true;
       $.ajax({
-        url: "http://moka.co/fos",
+        url: "http://fos-example.moka.co/counter",
         dataType: 'json',
         success: function (data) {
           requested = false;

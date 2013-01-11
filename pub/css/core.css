@@ -8,7 +8,7 @@ body {
   height: 32px;
   line-height: 32px;
   padding-left: 40px;
-  background: url('../img/firefox24.png') #303030 no-repeat 4px 4px;
+  background: url('/img/firefox24.png') #303030 no-repeat 4px 4px;
   cursor: pointer;
 }
 #status {

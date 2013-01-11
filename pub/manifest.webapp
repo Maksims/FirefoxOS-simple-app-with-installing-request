@@ -1,11 +1,11 @@
 {
   "version": "0.1",
-  "name": "moka.fos",
+  "name": "moka.fos-example",
   "description": "test",
-  "launch_path": "/fos/core.html",
+  "launch_path": "/",
   "developer": {
     "name": "Maksims Mihejevs",
-    "url": "http://moka.co/"
+    "url": "http://fos-example.moka.co/"
   },
   "installs_allowed_from": ["*"]
 }
